@@ -15,7 +15,7 @@ public class Test1 {
 		
 		assertEquals(name,name1);
 		
-		System.out.println("Test Name");
+		System.out.println("Test Name.........................");
 	}
 	
 	@Test
@@ -26,7 +26,7 @@ public class Test1 {
 		
 		assertEquals(c1,c2);
 		
-		System.out.println("testCMP");
+		System.out.println("testCMP.........................");
 	}
 	
 	@Test
@@ -37,7 +37,7 @@ public class Test1 {
 		
 		assertEquals(l1,l2);
 		
-		System.out.println("Test Location");
+		System.out.println("Test Location.........................");
 	}
 	
 }
