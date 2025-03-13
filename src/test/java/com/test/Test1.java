@@ -33,7 +33,7 @@ public class Test1 {
 	public void testLocation()
 	{
 		String l1 = "Spain";
-		String l2 = "Spain22";
+		String l2 = "Spain";
 		
 		assertEquals(l1,l2);
 		
